@@ -1,0 +1,21 @@
+body {
+      
+      background-image: url(../img/44.jpg);
+      background-size: cover;
+}
+
+main div {
+      width: 50%;
+      margin: auto;
+      border: 1px solid gray;
+      border-radius: 1rem;
+      background-color: rgba(255, 255, 255, 0.233);
+}
+
+#psw {
+      width: 50%;
+      height: 100px;
+      border: 1px solid;
+      border-radius: 1rem;
+      text-transform: uppercase;
+}
